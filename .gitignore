@@ -5,3 +5,4 @@ var/
 model/
 *.jsonl
 *.log
+.DS_Store
