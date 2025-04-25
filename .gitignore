@@ -1,0 +1,7 @@
+__pycache__/
+var/
+*ckpt/
+
+model/
+*.jsonl
+*.log
